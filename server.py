@@ -750,7 +750,7 @@ _WIDGET_LINK_STYLE = (
     "align-items:center;gap:6px;"
 )
 BACK_TO_SETUP_WIDGET = (
-    '<div id="hermes-back-widget" style="position:fixed;top:14px;right:14px;'
+    '<div id="hermes-back-widget" style="position:fixed;bottom:14px;right:14px;'
     'z-index:99999;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;'
     'font-size:11px;display:flex;gap:8px;">'
     f'<a href="/setup" style="{_WIDGET_LINK_STYLE}">← Setup</a>'
